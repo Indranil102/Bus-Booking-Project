@@ -1,0 +1,714 @@
+
+ operator  data:
+
+[]
+
+Bus data:
+
+[]
+
+route data:
+
+[]
+
+booking data:
+
+[]
+
+new run data:
+
+[]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[]
+
+route data:
+
+[]
+
+booking data:
+
+[]
+
+new run data:
+
+[]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[]
+
+route data:
+
+[]
+
+booking data:
+
+[]
+
+new run data:
+
+[]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM'), ('OM00', 'OM MISHRA', 'JAYPEE', '7896321450', 'OMMISHRA@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM'), ('OM00', 'OM MISHRA', 'JAYPEE', '7896321450', 'OMMISHRA@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07'), ('MP08', 'Mirzapur', 'UP63')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM'), ('OM00', 'OM MISHRA', 'JAYPEE', '7896321450', 'OMMISHRA@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07'), ('UP63', 'NON AC 3X2', 40, 1000, 'OM00', 'MP08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07'), ('MP08', 'Mirzapur', 'UP63')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25)]
+None
+
+ operator  data:
+
+[('PKG00', 'PRATIK', 'JAYPEE', '9099798563', 'GPRATIK@GMAIl.COM'), ('VICK01', 'VIKAS', 'JUET', '1236549870', 'VICKY@GMAIL.COM'), ('OM00', 'OM MISHRA', 'JAYPEE', '7896321450', 'OMMISHRA@GMAIL.COM')]
+
+Bus data:
+
+[('MP08', 'AC 3X2', 50, 300, 'PKG00', '08'), ('MP07', 'AC-Sleeper 2X1', 25, 1000, 'VICK01', 'MP07'), ('UP63', 'NON AC 3X2', 40, 1000, 'OM00', 'MP08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07'), ('MP08', 'Mirzapur', 'UP63')]
+
+booking data:
+
+[]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25), ('UP63', '03/12/2023', 40)]
+None
+jatin
+
+ operator  data:
+
+[ ('OM00', 'OM MISHRA', 'JAYPEE', '7896321450', 'OMMISHRA@GMAIL.COM')]
+
+Bus data:
+
+[ ('UP63', 'NON AC 3X2', 40, 1000, 'OM00', 'MP08')]
+
+route data:
+
+[('04', 'Bhopal', 'MP04'), ('08', 'Guna', 'MP08'), ('MP04', 'Bhopal', '04'), ('MP08', 'Guna', '08'), ('MP07', 'Indore', '07'), ('MP08', 'Mirzapur', 'UP63')]
+
+booking data:
+
+[('93', 'Guna', 'Mirzapur', '02/12/2023', '03/12/2023', 'INDRANIL SAMANTA', 'Male', 5, '9407080822', '20', 'UP63')]
+
+new run data:
+
+[('MP08', '03/12/2023', 50), ('MP07', '03/12/2023', 25), ('UP63', '03/12/2023', 35)]
